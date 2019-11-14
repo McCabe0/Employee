@@ -9,7 +9,7 @@ import java.util.Map;
 public class InsertingUsers {
 
     private static final String Query = "INSERT INTO employees Values(?,?,?,?,?,?,?,?,?,?)";
-    private static final String URL = "jdbc:mysql://localhost/employees?user=root&password=30139829mc";
+    private static final String URL = "jdbc:mysql://localhost/employees?user=root&password="";
 
     public void addEmpsToDB(Map<String, Employee> employeeMap){
         Employee[] arrayofEmps = employeeMap.values().toArray(new Employee[employeeMap.size()]);
