@@ -5,6 +5,6 @@ The function of this project is to read in a csv file of a list of employees to 
 ## Tools used
 
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [Java] (https://www.java.com) - Coding language used
-* [Payara] (https://www.payara.fish) - Server Used
-* [MySql] (https://www.mysql.com) - Database used
+* [Java] (https://www.java.com/) - Coding language used
+* [Payara] (https://www.payara.fish/) - Server Used
+* [MySql] (https://www.mysql.com/) - Database used
