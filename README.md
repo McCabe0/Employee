@@ -12,7 +12,7 @@ You'll also need to create a table in MySQL called "Employees" with the correspo
 
 ```
 ## Built With
-* [JDBC API (javax.sql)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - Database connector
+* [JDBC API](javax.sql)(https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - Database connector
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Java](https://www.java.com/) - Coding language used
 * [Payara](https://www.payara.fish/) - Server Used
